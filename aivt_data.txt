@@ -1,0 +1,88 @@
+==================================================
+  Academic Integrity Violation Tracker (AIVT) v2.0
+==================================================
+Generated on: 2025-10-11T12:00:57.587362100
+Total Cases: 3
+==================================================
+
+==================================================
+             PLAGIARISM CASE REPORT
+==================================================
+Case ID: 1000
+Student: John Smith (20230001)
+Email: john.smith@university.edu
+Department: Computer Science
+Incident Date: 2024-03-15
+Reporting Faculty: Dr. Johnson
+--------------------------------------------------
+Gravity Level: 3/5
+Current Status: Under Investigation
+Applied Sanction: Grade Reduction
+--------------------------------------------------
+Incident Description:
+Student submitted essay with 75% similarity to online source
+--------------------------------------------------
+Supporting Evidence:
+Turnitin report, original source documentation
+--------------------------------------------------
+Plagiarism Details:
+Source Detected: Wikipedia and academic papers
+Similarity Percentage: 75.3%
+==================================================
+
+==================================================
+
+==================================================
+              CHEATING CASE REPORT
+==================================================
+Case ID: 1001
+Student: Mary Davis (20230002)
+Email: mary.davis@university.edu
+Department: Mathematics
+Incident Date: 2024-03-20
+Reporting Faculty: Prof. Wilson
+--------------------------------------------------
+Gravity Level: 4/5
+Current Status: Resolved
+Applied Sanction: Suspension
+--------------------------------------------------
+Incident Description:
+Student used unauthorized notes during exam
+--------------------------------------------------
+Supporting Evidence:
+Security camera footage, confiscated notes
+--------------------------------------------------
+Cheating Details:
+Cheating Method: Hidden notes under desk
+Unauthorized Materials: Cheat sheets, smartphone
+==================================================
+
+==================================================
+
+==================================================
+             COLLUSION CASE REPORT
+==================================================
+Case ID: 1002
+Student: Alex Chen (20230003)
+Email: alex.chen@university.edu
+Department: Engineering
+Incident Date: 2024-03-25
+Reporting Faculty: Dr. Brown
+--------------------------------------------------
+Gravity Level: 2/5
+Current Status: Pending
+Applied Sanction: Warning
+--------------------------------------------------
+Incident Description:
+Multiple students submitted identical lab reports
+--------------------------------------------------
+Supporting Evidence:
+Identical code submissions, similar formatting
+--------------------------------------------------
+Collusion Details:
+Involved Parties: Alex Chen, Sarah Kim, Mike Thompson
+Collaboration Details: Shared lab report with identical results and formatting
+==================================================
+
+==================================================
+

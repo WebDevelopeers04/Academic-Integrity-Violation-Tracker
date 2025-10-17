@@ -1,0 +1,24 @@
+==================================================
+              CHEATING CASE REPORT
+==================================================
+Case ID: 1001
+Student: Mary Davis (20230002)
+Email: mary.davis@university.edu
+Department: Mathematics
+Incident Date: 2024-03-20
+Reporting Faculty: Prof. Wilson
+--------------------------------------------------
+Gravity Level: 4/5
+Current Status: Resolved
+Applied Sanction: Suspension
+--------------------------------------------------
+Incident Description:
+Student used unauthorized notes during exam
+--------------------------------------------------
+Supporting Evidence:
+Security camera footage, confiscated notes
+--------------------------------------------------
+Cheating Details:
+Cheating Method: Hidden notes under desk
+Unauthorized Materials: Cheat sheets, smartphone
+==================================================
